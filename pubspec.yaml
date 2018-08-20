@@ -1,0 +1,14 @@
+name: uri_template_r
+version: 0.6.0
+authors: 
+ - Dart Authors <misc@dartlang.org>
+ - thisLight <l1589002388@gmail.com>
+description: An implementation of  RFC 6570 URI Templates
+homepage: https://github.com/thislight/uri_template_r
+dependencies:
+  quiver: '>=0.12.0'
+  utf: '>=0.8.10'
+dev_dependencies:
+  test: any
+environment:
+  sdk: '>=0.8.10'
